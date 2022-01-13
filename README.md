@@ -1,5 +1,4 @@
-# Business-Request-Project
-
+# Sales Analysis Project
 Using the Adventure Works sample dataset, a mock business request was created to ask certain business needs such as products sold and budget versus revenue. The data was cleaned and prepared in several Excel documents. A tableau dashboard was created to illustrate the business needs. 
 
 # Dataset Available from: 
